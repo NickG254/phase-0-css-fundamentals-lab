@@ -1,5 +1,6 @@
-h1{
+header{
     text-align: center;
+    background-color: red;
 }
 
 img{
@@ -9,6 +10,7 @@ img{
 
 nav{
     text-align: center;
+
 }
 
 a{text-align: center;
